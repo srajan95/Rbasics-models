@@ -1,0 +1,7 @@
+Few Supervised and Unsupervised models are built using training dataset and accuracy across each model is tested
+using the testing data. 
+The models are listed as :
+Linear Model
+Association Rule
+KNN
+Neural Network
